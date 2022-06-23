@@ -4,13 +4,20 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Works/myApp/TaccToolsTest2/app/src/main/res/drawable/gradient.xml" value="0.2265" />
+        <entry key="..\:/Works/myApp/TaccToolsTest2/app/src/main/res/drawable/side_nav_bar.xml" value="0.2265" />
+        <entry key="..\:/Works/myApp/TaccToolsTest2/app/src/main/res/layout/activity_english_page.xml" value="0.21195652173913043" />
         <entry key="..\:/Works/myApp/TaccToolsTest2/app/src/main/res/layout/activity_intro.xml" value="0.21195652173913043" />
         <entry key="..\:/Works/myApp/TaccToolsTest2/app/src/main/res/layout/activity_main.xml" value="0.21195652173913043" />
+        <entry key="..\:/Works/myApp/TaccToolsTest2/app/src/main/res/layout/app_bar_english_page.xml" value="0.21195652173913043" />
+        <entry key="..\:/Works/myApp/TaccToolsTest2/app/src/main/res/layout/app_bar_english_page2.xml" value="0.21195652173913043" />
         <entry key="..\:/Works/myApp/TaccToolsTest2/app/src/main/res/layout/app_bar_main.xml" value="0.21195652173913043" />
         <entry key="..\:/Works/myApp/TaccToolsTest2/app/src/main/res/layout/content_english_page.xml" value="0.21195652173913043" />
         <entry key="..\:/Works/myApp/TaccToolsTest2/app/src/main/res/layout/content_english_page2.xml" value="0.21195652173913043" />
         <entry key="..\:/Works/myApp/TaccToolsTest2/app/src/main/res/layout/content_main.xml" value="0.21195652173913043" />
+        <entry key="..\:/Works/myApp/TaccToolsTest2/app/src/main/res/layout/nav_header_english_page.xml" value="0.21195652173913043" />
         <entry key="..\:/Works/myApp/TaccToolsTest2/app/src/main/res/layout/nav_header_main.xml" value="0.21195652173913043" />
+        <entry key="..\:/Works/myApp/TaccToolsTest2/app/src/main/res/menu/activity_english_page_drawer.xml" value="0.27447916666666666" />
+        <entry key="..\:/Works/myApp/TaccToolsTest2/app/src/main/res/menu/english_page.xml" value="0.27447916666666666" />
       </map>
     </option>
   </component>

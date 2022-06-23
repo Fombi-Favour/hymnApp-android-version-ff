@@ -10,7 +10,7 @@
 
     <include
         android:id="@+id/app_bar_english_page2"
-        layout="@layout/app_bar_english_page2"
+        layout="@layout/app_bar_french_page"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
@@ -20,6 +20,6 @@
         android:layout_height="match_parent"
         android:layout_gravity="start"
         android:fitsSystemWindows="true"
-        app:headerLayout="@layout/nav_header_english_page2"
+        app:headerLayout="@layout/nav_header_french_page"
         app:menu="@menu/activity_french_page_drawer" />
 </androidx.drawerlayout.widget.DrawerLayout>

@@ -6,15 +6,40 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_home"
-            android:icon="@drawable/ic_menu_camera"
+            android:icon="@drawable/ic_home"
             android:title="@string/menu_home" />
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/menu_gallery" />
+            android:id="@+id/nav_favourite"
+            android:icon="@drawable/ic_favourite"
+            android:title="Favourites" />
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
+            android:id="@+id/nav_history"
+            android:icon="@drawable/ic_history"
+            android:title="History" />
+        <item
+            android:id="@+id/nav_doctrine"
+            android:icon="@drawable/ic_doctrines"
+            android:title="TACC Doctrines" />
+        <item
+            android:id="@+id/nav_geolocate"
+            android:icon="@drawable/ic_geolocate"
+            android:title="Geolocation" />
+        <item
+            android:id="@+id/nav_credit"
+            android:icon="@drawable/ic_credit"
+            android:title="Credit" />
+        <item
+            android:id="@+id/nav_donate"
+            android:icon="@drawable/ic_donate"
+            android:title="Donate" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about"
+            android:title="About" />
+
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="Settings" />
     </group>
 </menu>
