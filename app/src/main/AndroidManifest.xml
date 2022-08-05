@@ -14,16 +14,6 @@
         android:theme="@style/Theme.TaccToolsTest2"
         tools:targetApi="31">
         <activity
-            android:name=".FrenchPageActivity"
-            android:exported="false"
-            android:label="@string/title_activity_french_page"
-            android:theme="@style/Theme.TaccToolsTest2.NoActionBar" />
-        <activity
-            android:name=".EnglishPageActivity"
-            android:exported="false"
-            android:label="@string/title_activity_english_page"
-            android:theme="@style/Theme.TaccToolsTest2.NoActionBar" />
-        <activity
             android:name=".IntroActivity"
             android:exported="false" />
         <activity
