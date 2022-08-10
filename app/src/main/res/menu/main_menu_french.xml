@@ -1,4 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_home"
+            android:icon="@drawable/ic_home"
+            android:title="Accueil" />
+        <item
+            android:id="@+id/menu_fav"
+            android:icon="@drawable/ic_favourite"
+            android:title="Favoris" />
+        <item
+            android:id="@+id/menu_hist"
+            android:icon="@drawable/ic_history"
+            android:title="Historique" />
+        <item
+            android:id="@+id/menu_doctrine"
+            android:icon="@drawable/ic_doctrines"
+            android:title="Doctrines de EAC" />
+        <item
+            android:id="@+id/menu_credit"
+            android:icon="@drawable/ic_credit"
+            android:title="Crédit" />
+        <item
+            android:id="@+id/menu_donate"
+            android:icon="@drawable/ic_donate"
+            android:title="Faire un don" />
+        <item
+            android:id="@+id/menu_about"
+            android:icon="@drawable/ic_about"
+            android:title="À propos" />
+        <item
+            android:id="@+id/menu_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="Paramètres" />
+    </group>
+
+    <item
+        android:id="@+id/menu_exit"
+        android:icon="@drawable/ic_exit"
+        android:title="Quitter" />
 
 </menu>
