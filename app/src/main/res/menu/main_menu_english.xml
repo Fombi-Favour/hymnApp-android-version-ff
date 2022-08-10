@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/menu_fav"
+            android:icon="@drawable/ic_favourite"
+            android:title="Favourites" />
+        <item
+            android:id="@+id/menu_history"
+            android:icon="@drawable/ic_history"
+            android:title="History" />
+        <item
+            android:id="@+id/menu_doctrine"
+            android:icon="@drawable/ic_doctrines"
+            android:title="TACC Doctrine" />
+        <item
+            android:id="@+id/menu_credit"
+            android:icon="@drawable/ic_credit"
+            android:title="Credit" />
+        <item
+            android:id="@+id/menu_donate"
+            android:icon="@drawable/ic_donate"
+            android:title="Donate" />
+        <item
+            android:id="@+id/menu_about"
+            android:icon="@drawable/ic_about"
+            android:title="About" />
+        <item
+            android:id="@+id/menu_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="Settings" />
+    </group>
+
+    <item
+        android:title="Exit"
+        android:id="@+id/menu_exit"
+        android:icon="@drawable/ic_exit" />
+
+</menu>

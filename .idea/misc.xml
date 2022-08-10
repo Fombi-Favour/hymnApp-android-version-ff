@@ -4,6 +4,26 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/HeroidesLab/StudioProjects/hymnApp-android-version-ff/app/src/main/res/font/alike.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/HeroidesLab/StudioProjects/hymnApp-android-version-ff/app/src/main/res/layout/activity_about.xml" value="0.23114035087719298" />
+        <entry key="..\:/Users/HeroidesLab/StudioProjects/hymnApp-android-version-ff/app/src/main/res/layout/activity_credit.xml" value="0.23114035087719298" />
+        <entry key="..\:/Users/HeroidesLab/StudioProjects/hymnApp-android-version-ff/app/src/main/res/layout/activity_doctrine.xml" value="0.23114035087719298" />
+        <entry key="..\:/Users/HeroidesLab/StudioProjects/hymnApp-android-version-ff/app/src/main/res/layout/activity_donate.xml" value="0.23114035087719298" />
+        <entry key="..\:/Users/HeroidesLab/StudioProjects/hymnApp-android-version-ff/app/src/main/res/layout/activity_english.xml" value="0.23114035087719298" />
+        <entry key="..\:/Users/HeroidesLab/StudioProjects/hymnApp-android-version-ff/app/src/main/res/layout/activity_favourite.xml" value="0.23114035087719298" />
+        <entry key="..\:/Users/HeroidesLab/StudioProjects/hymnApp-android-version-ff/app/src/main/res/layout/activity_favourites.xml" value="0.23114035087719298" />
+        <entry key="..\:/Users/HeroidesLab/StudioProjects/hymnApp-android-version-ff/app/src/main/res/layout/activity_french.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/HeroidesLab/StudioProjects/hymnApp-android-version-ff/app/src/main/res/layout/activity_history.xml" value="0.23114035087719298" />
+        <entry key="..\:/Users/HeroidesLab/StudioProjects/hymnApp-android-version-ff/app/src/main/res/layout/activity_home.xml" value="0.23114035087719298" />
+        <entry key="..\:/Users/HeroidesLab/StudioProjects/hymnApp-android-version-ff/app/src/main/res/layout/activity_home_en.xml" value="0.23114035087719298" />
+        <entry key="..\:/Users/HeroidesLab/StudioProjects/hymnApp-android-version-ff/app/src/main/res/layout/activity_settings.xml" value="0.23114035087719298" />
+        <entry key="..\:/Users/HeroidesLab/StudioProjects/hymnApp-android-version-ff/app/src/main/res/layout/drawer_header.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/HeroidesLab/StudioProjects/hymnApp-android-version-ff/app/src/main/res/layout/english_activity.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/HeroidesLab/StudioProjects/hymnApp-android-version-ff/app/src/main/res/layout/fragment_favourite.xml" value="0.23114035087719298" />
+        <entry key="..\:/Users/HeroidesLab/StudioProjects/hymnApp-android-version-ff/app/src/main/res/layout/fragment_history.xml" value="0.23114035087719298" />
+        <entry key="..\:/Users/HeroidesLab/StudioProjects/hymnApp-android-version-ff/app/src/main/res/layout/fragment_home.xml" value="0.23026315789473684" />
+        <entry key="..\:/Users/HeroidesLab/StudioProjects/hymnApp-android-version-ff/app/src/main/res/layout/home_activity.xml" value="0.23114035087719298" />
+        <entry key="..\:/Users/HeroidesLab/StudioProjects/hymnApp-android-version-ff/app/src/main/res/menu/main_menu_english.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HeroidesLab/StudioProjects/hymnApp-android-version-ff/app/src/main/res/menu/main_menu_french.xml" value="0.2734375" />
         <entry key="..\:/Works/myApp/TaccToolsTest2/app/src/main/res/drawable/gradient.xml" value="0.2265" />
         <entry key="..\:/Works/myApp/TaccToolsTest2/app/src/main/res/drawable/side_nav_bar.xml" value="0.2265" />
         <entry key="..\:/Works/myApp/TaccToolsTest2/app/src/main/res/layout/activity_english_page.xml" value="0.21195652173913043" />

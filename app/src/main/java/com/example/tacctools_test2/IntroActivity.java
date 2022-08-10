@@ -21,7 +21,7 @@ public class IntroActivity extends AppCompatActivity {
         buttonEn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(IntroActivity.this, EnglishPageActivity.class);
+                Intent intent = new Intent(IntroActivity.this, EnglishActivity.class);
                 startActivity(intent);
             }
         });
@@ -30,7 +30,7 @@ public class IntroActivity extends AppCompatActivity {
         buttonFr.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent1 = new Intent(IntroActivity.this, FrenchPageActivity.class);
+                Intent intent1 = new Intent(IntroActivity.this, FrenchActivity.class);
                 startActivity(intent1);
             }
         });
