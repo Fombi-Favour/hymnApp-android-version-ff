@@ -6,10 +6,13 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
+import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
 import android.view.MenuItem;
 
+import com.example.tacctools_test2.adapters.SongListAdapter;
+import com.example.tacctools_test2.models.SongModel;
 import com.example.tacctools_test2.ui.FavouriteFragment;
 import com.example.tacctools_test2.ui.FavouriteFragmentFR;
 import com.example.tacctools_test2.ui.HistoryFragment;
@@ -17,9 +20,12 @@ import com.example.tacctools_test2.ui.HistoryFragmentFR;
 import com.example.tacctools_test2.ui.HomeFragmentFR;
 import com.google.android.material.navigation.NavigationView;
 
+import java.util.ArrayList;
+
 public class FrenchActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
     DrawerLayout drawer;
+    RecyclerView recyclerView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,6 +34,13 @@ public class FrenchActivity extends AppCompatActivity implements NavigationView.
 
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
+        recyclerView = findViewById(R.id.recycler_view);
+        ArrayList<String> list = new ArrayList<>();
+        list.add("God be the Glory");
+        list.add("It is well");
+        recyclerView.setAdapter(new SongListAdapter(this, list));
+        recyclerView.setLayoutDirection(RecycleView.);
 
         drawer = findViewById(R.id.drawer_layout_fr);
 
