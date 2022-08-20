@@ -13,11 +13,21 @@ import android.view.MenuItem;
 
 import com.example.tacctools_test2.adapters.SongListAdapter;
 import com.example.tacctools_test2.models.SongModel;
+import com.example.tacctools_test2.ui.AboutFragment;
+import com.example.tacctools_test2.ui.AboutFragmentFR;
+import com.example.tacctools_test2.ui.CreditFragment;
+import com.example.tacctools_test2.ui.CreditFragmentFR;
+import com.example.tacctools_test2.ui.DoctrineFragment;
+import com.example.tacctools_test2.ui.DoctrineFragmentFR;
+import com.example.tacctools_test2.ui.DonateFragment;
+import com.example.tacctools_test2.ui.DonateFragmentFR;
 import com.example.tacctools_test2.ui.FavouriteFragment;
 import com.example.tacctools_test2.ui.FavouriteFragmentFR;
 import com.example.tacctools_test2.ui.HistoryFragment;
 import com.example.tacctools_test2.ui.HistoryFragmentFR;
 import com.example.tacctools_test2.ui.HomeFragmentFR;
+import com.example.tacctools_test2.ui.SettingsFragment;
+import com.example.tacctools_test2.ui.SettingsFragmentFR;
 import com.google.android.material.navigation.NavigationView;
 
 import java.util.ArrayList;
@@ -40,7 +50,7 @@ public class FrenchActivity extends AppCompatActivity implements NavigationView.
         list.add("God be the Glory");
         list.add("It is well");
         recyclerView.setAdapter(new SongListAdapter(this, list));
-        recyclerView.setLayoutDirection(RecycleView.);
+        //recyclerView.setLayoutDirection(RecycleView.);
 
         drawer = findViewById(R.id.drawer_layout_fr);
 
@@ -66,6 +76,21 @@ public class FrenchActivity extends AppCompatActivity implements NavigationView.
                 break;
             case R.id.menu_history:
                 getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, new HistoryFragmentFR()).commit();
+                break;
+            case R.id.menu_doctrine:
+                getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, new DoctrineFragmentFR()).commit();
+                break;
+            case R.id.menu_credit:
+                getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, new CreditFragmentFR()).commit();
+                break;
+            case R.id.menu_donate:
+                getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, new DonateFragmentFR()).commit();
+                break;
+            case R.id.menu_about:
+                getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, new AboutFragmentFR()).commit();
+                break;
+            case R.id.menu_settings:
+                getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, new SettingsFragmentFR()).commit();
                 break;
             case R.id.menu_exit:
                 moveTaskToBack(true);
