@@ -7,7 +7,131 @@
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tenets_title">Tenets</string>
+    <string name="tenets_title_fr">Confession de Foi</string>
+    <string name="belief_title">Rules of Belief</string>
+    <string name="belief_title_fr">Ce que l\'église attend de toi</string>
+    <string name="conduct_title">Rules of Conduct</string>
+    <string name="Conduct_title_fr">Conseils Pratiques</string>
+
+    <string name="tenets">
+        1. The Unity of the Godhead and the Trinity of the Persons therein <b>(Numbers 7:22-27; Isaiah 6:3; Matt 3:16-17, 28:19; John 15:28; 1 John 5:7)</b>
+        <br></br>
+        2. The utter depravity of human nature, the necessity of Repentance and Regeneration, and the Eternal doom of the finally impenitent <b>(Psalms 61:5; 1 John 5:19; Rev 20:12-15, 21:8)</b>
+        <br></br>
+        3. The Virgin Birth, Sinless Life, Atoning Death, Triumphant Resurrection, Ascension and Abiding Intercession of our Lord Jesus Christ: his Second Coming and Millennial Reign upon earth <b>(Zech 14:4; Matt 1:23, 24:30, 28:5-6; Luke 1:35; John 14:30, 20:3-18; Acts 1:9,11)</b>
+        <br></br>
+        4. Justification and Santification of the Believers through the finished work of Christ <b>(Rom 3:24, 5:1, 9:6, 8:33; 1Cor 6:11; 2Cor 7:11; Heb 10:10)</b>
+        <br></br>
+        5. The Baptism of the Holy Ghost for believers, with signs following <b>(Luke 3:16, 11:9-13, 24:49; John 7:37-39; Acts 1:4-5, 2:1-4, 10:48; Eph 6:18)</b>
+        <br></br>
+        6. The Nine Gifts of the Holy Ghost for the edification, exhortation and comfort of the Church, which is the Body of Christ <b>(1Cor 12:4-11, 14:3; Eph 1:23, 4:12)</b>
+        <br></br>
+        7. The Sacraments of Baptism by immersion, and of the Lord's Supper <b>(Matt 28:19; Mark 16:16; Luke 22:19-20; Acts 2:38, 8:12,36-38; Rom 8:3-7; 1Cor 10:15-21, 11:23-32)</b>
+        <br></br>
+        8. The Divine inspiration and authority of the Holy Scriptures <b>(2Tim 3:16; 2Pet 1:20-21)</b>
+        <br></br>
+        9. Church Government by Apostles, Prophets, Evangelists, Pastors, Teachers, Elders and Deacons <b>(Acts 6:2-3, 13:1-3; 2Cor 11:28; Eph 4:8-16; 1Tim 3:1-13; Titus 1:5-9; Heb 13:17; 1Pet 5:1-4)</b>
+        <br></br>
+        10. The possibility of falling from Grace <b>(Rom 11:20-22; Col 1:21-23; Heb 6:4-6, 10:26-29; 2Pet 2:20-22; Rev 22:19)</b>
+        <br></br>
+        11. The obligatory nature of Tithes of Offering <b></b>
+    </string>
+
+    <string name="beliefs">
+        1. A personal testimony of your salvation in Christ <b>(Acts 4:12; Rom 10:9)</b>
+        <br></br>
+        2.Your acknowlegment of, and obedience to the order and officers of the church: Apostles, elders and deacons <b>(1Cor 12:28; Eph 4:11; Heb 13:17)</b>
+        <br></br>
+        3. Your presence in the meetings of the church and abidance in full communion; that is not to absent yourself more than three times from communion without sufficient reason for your absence <b>(Heb 10:25)</b>
+        <br></br>
+        4. Your conformity with the fundamental doctrines of the church as well as with the two ordinances, namely, Baptism by immersion, and the Lord's supper <b>(Luke 22:10-20; Rom 6:4-17; 1Cor 11:23-28; 2John 9)</b>
+        <br></br>
+        5. That you contribute towards the support of cause, as taught unto us <b>(Gen 14:20, 28:22; Lev 27:38; 1Chron 29:14, Matt 23:32; 1Cor 16:2; Heb 7:8-17)</b>
+        <br></br>
+        6. That you will keep the counsels of the church within the church <b>(Matt 7:6)</b>
+        <br></br>
+        7. That you pray for and help every member, remembering that we are joint members in the body of Christ <b>(1Cor 12:25; Gal 6:2; 1Tim 2:1-2; Heb 10:24)</b>
+        <br></br>
+        8. Endeavouring to keep the unity of the spirit in the bond of peace <b>(Eph 4:3)</b>
+    </string>
+
+    <string name="conduct">
+        1. Never come to the house of God without praying before coming <b>(Matt 6:6-7; Eph 6:18)</b>
+        <br></br>
+        2. Be in your seat at the commencement of the service. You will this be a good example to those that are late and neglecful <b>(Gen 22:3; Psalms 108:2, 119:147, 148:8; Song of Solomon 7:12)</b>
+        <br></br>
+        3. Bring your children with you to the house of God. Relatives and servants also have souls. It is your duty and privilege to take care of them <b>(Gen 18:19; Ex 20:10; Matt 2:14; John 1:41,45; Acts 10:24)</b>
+        <br></br>
+        4. Make the pastor your personal friend. His sympathy, support and counsel are needed by you. Constantly pray for him <b>(Joel 2:17; Rom 15:30; 2Cor 1:11; Eph 6:19; 1Thess 2:7; Heb 13:17)</b>
+        <br></br>
+        5. Make the church your spiritual home <br>(Psalms 133:1; Acts 2:48)</br>
+        <br></br>
+        6. When converaing on the hearth, never speak disrespectfully or of God's servants, or their ministration, in the presence of your children, if you sow the wind, you may expect to reap the whirlwind <b>(Prov 22:8; Hos 8:7; Gal 6:7)</b>
+        <br></br>
+        7. Take youe Bible with you to the house of God <b>(Psalms 1:2, 119:18,72; Rom 15:4; 2Tim 3:16-17)</b>
+        <br></br>
+        8. Enter reverently, pray fervently, listen attentively, give praise from a grateful heart, and worship God in the beauty of his holiness <b>(Psalms 100:2-5, 5:1; Rom 12:11; James 1:10)</b>
+    </string>
+
+    <string name="tenets_fr">
+        1. Un seul Dieu en trois personnes, le père, le fils, et le Saint-Esprit
+        <br></br>
+        2. La déchéance total de la nature humaine qui ne peut être régénérée que par la repentance et la nouvelle naissance le châtiment éternel de ceux qui seront jusqu'au bout rebelles à la vérité
+        <br></br>
+        3. Jésus-Christ notre Seigneur, a été conçu du Saint-Esprit, il a vécu sans péché, il a expie nos péché sur la croix, il est ressuscité et il est au ciel ou il intercède pour nous : il reviendra une deuxième fois sur la terre pour y établir son régne de ans
+        <br></br>
+        4. La justice et la sanction des croyants par l’œuvre accomplie de Jésus-Christ
+        <br></br>
+        5. Le baptême du Saint-Esprit pour les croyants avec les signes qui l'accompagnent
+        <br></br>
+        6. Le baptême du Saint-Esprit pour l'édification, l'exhortation et la consolation des membres de l'Eglise qui est le corps de Christ
+        <br></br>
+        7. Le baptême par immersion et la Sainte Cène
+        <br></br>
+        8. L'inspiration divine et l'autorité absolue des Saintes Ecriture (La Bible)
+        <br></br>
+        9. Le gouvernement de l'Eglise par des apôtres, prophètes, évangélistes, pasteurs, docteur, anciens et diacres
+        <br></br>
+        10. La possibilité de déchoir de la grâce
+        <br></br>
+        11. La nature obligatoire des dimes et des offrandes
+    </string>
+
+    <string name="belief_fr">
+        1. Un témoignage personnel de ton salut en Jésus-Christ
+        <br></br>
+        2. Ton approbation à l'ordre établi par le Seigneur dans l'Eglise et ton obéissance aux serviteurs de Dieu : Apôtres, Pasteurs, Anciens et Diacres
+        <br></br>
+        3. Ta fidélité au culte et réunions de l'assemblée. Ne te prive pas plus de trois fois du repas du Seigneur (Sainte-Cène) sans pouvoir en donner une raison valable
+        <br></br>
+        4. Ta foi à l'enseignement de l'Eglise à la pratique du baptême par immersion et de la sainte cène
+        <br></br>
+        5. Ta participation au maintien et au dévelopment de l'œuvre du Seigneur, conformément aux indications de la parole de Dieu
+        <br></br>
+        6. Ta discrétion : ne parle pas au dehors des affaires internes de l'Eglise
+        <br></br>
+        7. Ton intercession et ton amour fraternel envers chaque membre deton Eglise, te souvenant que nous sommes membres les uns et les autres du corps de Christ
+        <br></br>
+        8. Ton application à conserver l'unité de l'Esprit par le lien de la paix
+    </string>
+
+    <string name="conduct_fr">
+        1. Ne viens jamais dans la maison de Dieu sans avoir prié avant de venir
+        <br></br>
+        2. Sois à ta place dés le début du culte ou de la réunion. Tu seras alors un bon exemple pour ceux qui arrivent en retard par négligence
+        <br></br>
+        3. Prends tes enfants avec toi à la maison de Dieu. Tes parents, tes employés et tes voisins ont aussi une âme. C'est ton devoir de t'occuper de leur salut
+        <br></br>
+        4. Que le Pasteur de l'assemblée soit ton ami personnel. Tu as besion de sa compréhension, de son appui et de ses directives. Prie régulièrement pout lui et pour ceux qui l'assistent dans sa charge
+        <br></br>
+        5. Fait de l'assemblée ton foyer spirituel
+        <br></br>
+        6. Ne parle jamais de façon désobligeante des serviteurs de Dieu et évite de critiquer leur ministère, surtout en présence de tes enfants. Celui qiu sème le vent moissonnera la tempête
+        <br></br>
+        7. Emporte ta Bible avec toi dans la maison de Dieu
+        <br></br>
+        8. Viens avec respect, prie avec sérieux, écoute avec attention, loue Dieu d'un cœur reconnaissant et adore-le en un saint éclat
+    </string>
 
 </resources>
